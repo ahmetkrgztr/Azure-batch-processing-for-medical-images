@@ -1,4 +1,4 @@
-# Azure-batch-processing-for-medical-images
+# Azure-batch-process-for-medical-image-processing
 
 You can access Azure Batch documentation on https://docs.microsoft.com/en-us/azure/batch/ 
 
